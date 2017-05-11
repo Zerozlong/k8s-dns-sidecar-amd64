@@ -1,1 +1,1 @@
-from k8s-dns-sidecar-amd64:v1.14.1
+from k8s-dns-sidecar-amd64:1.14.1
